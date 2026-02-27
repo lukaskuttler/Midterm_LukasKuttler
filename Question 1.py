@@ -19,3 +19,7 @@ for i in range(len(random_numbers)):
 
 # print final list
 print(random_numbers)
+
+#This code creates a list of 10 random numbers between 1 and 100.
+# Then it goes through the list and replaces numbers greater than 50 with a random number between 20 and 30,
+# and numbers lower than 50 with "XX". Finally, it prints the updated list.
